@@ -1,1 +1,1 @@
-# stellar-classification
+# Классификация переменных звезд
